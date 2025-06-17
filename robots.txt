@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://viviwardana-portfolio.vercel.app/sitemap.xml
